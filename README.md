@@ -20,8 +20,8 @@ A Django-based web scraping project designed to extract data from online maps an
 
 ```
 git clone https://github.com/your-username/map-scraper.git
-cd map-scraper   ```
-
+cd map-scraper
+```
 
 2. Create a Python virtual environment:
 ```
@@ -32,6 +32,7 @@ source venv/bin/activate # On Windows use venv\Scripts\activate
 3. Install dependencies:
 ```
 pip install -r requirements.txt
+
 ```
 
 ---
