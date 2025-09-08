@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Google Maps Scraper</title>
+</head>
+<body>
+    <h1>Google Maps Scraper</h1>
+    <form method="post" action="{% url 'results' %}">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Search</button>
+    </form>
+</body>
+</html>
+
