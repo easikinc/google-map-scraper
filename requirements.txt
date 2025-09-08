@@ -1,0 +1,7 @@
+Django>=4.0
+selenium>=4.10
+webdriver-manager>=3.8
+pandas>=2.0
+numpy>=1.25
+requests>=2.31
+beautifulsoup4>=4.12
