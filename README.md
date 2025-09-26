@@ -96,7 +96,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For issues or requests, please contact:
 
-- Email: [haneishiteiru@gmail.com]
+- Email: haneishiteiru@gmail.com
 - GitHub: [https://github.com/easikinc/](https://github.com/easikinc)
 
 ---
